@@ -1,5 +1,5 @@
 public class PalindromeSolution {
-    // Find the palindrome
+    // Solution "Find the palindrome"
 
     public static void main(String[] args) {
         String s = "123255359";
